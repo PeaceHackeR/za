@@ -1,0 +1,669 @@
+@media only screen and (max-width: 767px) {
+    
+    
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) and (orientation : landscape) {
+
+}
+
+@media only screen and (min-width: 667px) and (max-width: 767px) and (orientation : landscape) {
+
+}
+
+@media only screen and (min-width: 375px) {
+    .page-gallery .fancybox-close {
+    top: 10px;
+    right: -22px;
+}
+}
+
+@media only screen and (min-width: 768px) {
+    .block-gallery header {
+        margin: 0 20px;
+        position: relative;
+    }
+    .txt-announcement {
+        width: 306px;
+        position: absolute;
+        top: 60px;
+        left: 50%;
+        margin-left: -153px;
+    }
+    .hwinner {
+        margin-bottom: 90px!important;
+    }
+    .hwinner .sort-list {
+        width: auto;
+    }
+    .block-gallery h1 {
+        float: left;
+    }
+    .block-gallery .sort-list {
+        float: right;
+    }
+    .sort-list h3 {
+        float: left;
+        margin: 10px 10px 0 0;
+    }
+    .sort-list .selsort {
+        float: left;
+        width: 186px;
+    }
+    .list-gallery {
+        width: 738px;
+        margin: 0 auto;
+    }
+    .list-gallery li {
+        width: 230px;
+        float: left;
+        margin: 0 8px 15px;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .btn-menu, .nav-m {
+        display: none!important;
+    }
+    .header-container {
+        border-width: 3px;
+    }
+    .header-container header {
+        height: 76px;
+        position: relative;
+        max-width: 802px;
+    }
+    .header-container header > a.logo {
+        left: 0;
+        top: 17px;
+        margin-left: 10px;
+    }
+    .social-fb {
+        right: 10px;
+    }
+    .main-nav {
+        width: 618px;
+        margin: 0 auto;
+        padding-top: 20px;
+    }
+    .main-nav li {
+        float: left;
+        padding: 0 40px 0 0;
+        background: url(../img/line-sep-nav.png) right top no-repeat;
+        height: 41px;
+    }
+    .main-nav li:last-child {
+        padding-right: 0;
+        background: none;
+    }
+    .main-nav li a {
+        color: #fff;
+        font-size: 22px;
+        display: inline-block;
+        margin-top: 8px;
+        text-transform: uppercase;
+    }
+    
+    .page-home .logo-camp {
+        width: 639px;
+/*        margin: 40px auto 10px;*/
+    }
+    .btn-play {
+        width: 198px;
+        height: 77px;
+        margin: 20px auto 30px;
+    }
+    .btn-play span {
+    padding-top: 80px;
+}
+    .page-home h1 {
+        font-size: 38px;
+        line-height: .95;
+    }
+    .page-home h1 strong {
+        display: block;
+        font-size: 48px;
+    }
+    .obj-liptick .lipsticks {
+    width: 320px;
+}
+    .obj-liptick .obj-sh {
+    margin-left: -220px;
+    width: 440px;
+    height: 6px;
+}
+    .block-gallery header {
+    margin: 0 28px;
+}
+    .list-gallery {
+        width: 984px;
+        margin: 0 auto;
+    }
+    
+    #pop-gallery {
+    background: url(../img/bg-lb-gallery-lg.png) 0 0 no-repeat;
+    background-size: 100%;
+    width: 798px;
+    height: 516px;
+}
+#pop-gallery:after {
+    display: none;
+}
+#pop-gallery .pop-content {
+    top: 120px;
+    background-color: transparent;
+}
+    
+    #pop-gallery .row-frame {
+    float: left;
+    margin: 20px 40px 0 50px;
+        width: 278px;
+    height: 278px;
+}
+    #pop-gallery .frame {
+    width: 260px;
+    height: 260px;
+    top: 9px;
+    left: 9px;
+}
+    #pop-gallery .pic-upload {
+    width: 260px;
+    height: 260px;
+}
+    #pop-gallery .color-title {
+    width: 260px;
+    height: 92px;
+}
+    #pop-gallery .txt-box {
+    width: 330px;
+    padding-top: 60px;
+    text-align: left;
+    float: left;
+}
+    #pop-gallery .txt-box h2 {
+    font-size: 40px;
+        margin-bottom: 10px;
+}
+    #pop-gallery .txt-box h3 {
+    font-size: 36px!important;
+        margin-bottom: 5px;
+}
+    #pop-gallery .txt-box p {
+    font-family: 'pslxdisplayregular';
+    font-size: 30px;
+}
+    .page-gallery .fancybox-close {
+    top: 55px;
+    right: 10px;
+        width: 70px;
+    height: 70px;
+    background: url(../img/ico-close-lg.png) 0 0 no-repeat;
+        background-size: 100%;
+}
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    
+}
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1023px) and (orientation : landscape) {
+    
+}
+@media only screen and (min-width: 1025px) {
+    body {
+    background: url(../img/bg-main-lg.jpg) center top no-repeat;
+}
+    .header-container header > a.logo {
+    width: 60px;
+    height: 65px;
+    background: url(../img/logo-lg.png) 0 0 no-repeat;
+        top: 7px;
+}
+    .social-fb {
+    width: 41px;
+    height: 68px;
+    background: url(../img/ico-fb-lg.png) 0 0 no-repeat;
+}
+    .main-nav {
+    margin: 0 auto 0 100px;
+}
+    .main-nav li a:hover {
+        color: #eb008b;
+    }
+    .obj-liptick .lipsticks {
+    width: 340px;
+}
+    .obj-liptick .obj-sh {
+        background: url(../img/bg-sh-obj-lipstick-lg.png) 0 0 no-repeat;
+    margin-left: -351px;
+    width: 702px;
+    height: 11px;
+}
+    #pop-like {
+    width: 590px;
+    height: 606px;
+    background: url(../img/bg-pop-like-lg.png) 0 0 no-repeat;
+}
+#pop-like h2 {
+    font-size: 60px;
+    padding-top: 340px;
+    line-height: .8;
+    margin-bottom: 10px;
+}
+#pop-like h2 strong {
+    font-size: 80px;
+}
+    .fancybox-close {
+    top: 45px;
+    right: 45px;
+    width: 85px;
+    height: 85px;
+    background: url(../img/ico-close-lg.png) 0 0 no-repeat;
+}
+    .block-content .logo-camp {
+        width: 473px;
+        margin-top: 22px;
+        margin-bottom: 5px;
+    }
+    .choose-color-group li {
+        display: inline-block;
+    }
+    .hpage {
+        background: none!important;
+        width: inherit!important;
+        height: auto!important;
+font-family: 'pslxdisplaybold';
+        font-size: 92px;
+        line-height: 1;
+        color: #e50088;
+        margin-bottom: 0;
+    }
+    .hpage span {
+        display: inline-block;
+        padding-top: 0;
+    }
+    
+    .block-bg header {
+        text-align: left!important;
+    }
+    .block-bg .hpage {
+        display: inline-block;
+        width: auto!important;
+        height: 53px!important;
+        background: url(../img/bg-hpage.png) right 0 no-repeat!important;
+        font-size: 40px;
+        color: #fff;
+        margin-left: 0;
+        margin-right: 0;
+        padding-right: 35px;
+        padding-left: 16px;
+        margin-top: 45px;
+    }
+    .block-bg .hpage .hstep {
+        font-size: 52px;
+        color: #fbfac6;
+        text-transform: uppercase;
+        margin-right: 20px;
+    }
+    .block-content header > p {
+        font-size: 56px;
+    }
+    .choose-color-group li a span {
+    width: 112px;
+    height: 64px;
+    border-radius: 56px;
+    font-size: 26px;
+    padding-top: 48px;
+}
+    .choose-color-group li p {
+        font-size: 36px;
+    }
+    .choose-color-group li a {
+        margin-bottom: 15px;
+    }
+    .btn {
+        font-size: 26px;
+        padding: 6px 0;
+    }
+    .btn-dir-left:before, .btn-dir-right:before {
+        top: 14px;
+    }
+    .block-bg {
+        background: url(../img/bg-page-ct.png) 0 0 no-repeat;
+        width: 823px;
+        height: 489px;
+        margin: 0 auto;
+        position: relative;
+        left: 12px;
+        margin-top: 102px;
+        margin-bottom: -35px;
+    }
+    .block-content.block-bg .logo-camp {
+    margin-top: 0;
+        position: absolute;
+        top: -78px;
+        left: 50%;
+        margin-left: -236px;
+}
+    
+    .row-frame {
+    width: 278px;
+    height: 278px;
+    }
+    .block-upload .row-frame {
+        -webkit-box-shadow: none;
+    box-shadow: none;
+    }
+    .frame {
+    width: 260px;
+    height: 260px;
+    top: 9px;
+    left: 9px;
+}
+    .btn-file-upload {
+    width: 260px;
+    height: 260px;
+    top: 9px;
+}
+    .row-frame .frame a {
+    width: 260px;
+    height: 260px;
+    font-size: 30px;
+    padding-top: 18px;
+}
+    .row-frame .frame a:before {
+    width: 173px;
+    height: 173px;
+    background: url(../img/ico-camera-lg.png) center top no-repeat;
+    margin: 0 auto 13px;
+}
+    .row-btn {
+        width: 736px;
+        margin-left: 32px;
+    }
+    .row-btn .btn-dark {
+        float: left;
+        margin-right: 396px;
+        min-width: 110px;
+    }
+    
+    .color-title {
+        width: 260px;
+        height: 92px;
+    }
+    .row-control .zoom {
+    top: -293px;
+    right: -108px;
+}
+    .btn-zoom {
+    width: 64px;
+    margin-bottom: 10px;
+}
+    .change-pic {
+    width: auto;
+   background-color: transparent;
+    top: -8px;
+    margin-left: -67px;
+    left: 50%;
+}
+    .change-pic a {
+    width: auto;
+        color: #eb0089;
+}
+    .change-pic a:before {
+    display: inline-block;
+    background: url(../img/ico-ch-image-pink.png) 0 0 no-repeat;
+        background-size: 100%;
+    margin: 10px 8px 0 5px;
+        position: relative;
+        top: 2px;
+}
+    .change-pic a span {
+    display: inline-block;
+    padding-top: 0;
+    font-size: 28px;
+}
+    .pic-upload {
+    width: 260px;
+    height: 260px;
+}
+    .block-marking .marking {
+        float: left;
+        width: 240px;
+        margin: 20px 55px 0 100px;
+    }
+    .block-marking .marking h2 {
+        font-size: 26px;
+        margin-bottom: 5px;
+    }
+    .block-marking .marking p {
+        font-size: 20px;
+        line-height: .9;
+    }
+    .block-marking .marking .marking-area {
+    width: 202px;
+}
+    .block-marking .marking .row-btn {
+    width: 100%;
+    margin-left: 0;
+        margin-bottom: 10px;
+}
+    .btn.btn-border {
+        min-width: 98px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+    }
+    .block-marking .row-frame {
+        float: left;
+    }
+    .block-marking .row-btn {
+        clear: both;
+    }
+    
+    .wrap-frame, .block-status .msg-box {
+        float: left;
+    }
+    .wrap-frame {
+        margin: 0 170px 0 35px;
+    }
+    .msg-box {
+        width: 280px;
+    }
+    .block-status .row-btn {
+        clear: both;
+    }
+    
+    .row-control .color-select {
+    width: 138px;
+    top: -285px;
+    right: -177px;
+}
+    .color-select h3 {
+        font-size: 30px;
+        color: #ce0a3d;
+        margin-bottom: 10px;
+    }
+    .color-select a {
+        width: 60px;
+        height: 60px;
+        border-radius: 30px;
+        font-size: 20px;
+        margin: 0 auto 12px;
+        position: relative;
+    }
+    .color-select a.active:before {
+        content: '';
+        display: block;
+        position: absolute;
+        width: 64px;
+        height: 64px;
+        border: 1px solid #eb008b;
+        border-radius: 33px;
+        top: -3px;
+        left: -3px;
+    }
+    .color-select a span {
+        padding-top: 18px;
+    }
+    .row-input h3 {
+font-family: 'pslxdisplaybold';
+        font-size: 32px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .row-input label {
+        display: inline-block;
+        margin-bottom: 0;
+        margin-left: 30px;
+    }
+    .row-input li {
+        position: relative;
+        margin: 3px 0;
+    }
+    .row-input li input[type="radio"] {
+    display:none;
+}
+.row-input li input[type="radio"] + label:before {
+    content: '';
+    display:inline-block;
+    width:12px;
+    height:12px;
+    margin:0 4px 0 0;
+    vertical-align:middle;
+    border-radius: 10px;
+    border: 4px solid #eb008b;
+    cursor:pointer;
+    position: absolute;
+    top: 1px;
+    left: 0;
+}
+.row-input li input[type="radio"]:checked + label:before {
+    background-color: #eb008b;
+}
+    .txt-msg {
+        margin-left: 30px;
+    }
+    .row-input textarea {
+    height: 60px;
+}
+    .row-input .remark {
+        font-size: 14px;
+    }
+    
+    .block-share .row-frame {
+        float: left;
+        margin: 20px 32px 0 32px;
+    }
+    .block-share .txt-box {
+        width: 330px;
+        padding-top: 60px;
+        text-align: left;
+        float: left;
+        margin-bottom: 40px;
+    }
+    .block-share .txt-box h2 {
+        font-size: 36px;
+    }
+    .block-share .txt-box p {
+        font-family: 'pslxdisplayregular';
+        font-size: 30px;
+    }
+    .block-share .row-btn {
+        margin-left: 0;
+        width: 330px;
+        float: left;
+    }
+    
+    .block-gallery header {
+    margin: 0;
+}
+    .hpage.hpage-gallery {
+        margin-top: 13px;
+        height: 40px!important;
+    }
+    .hpage.hpage-gallery span {
+        margin-top: 2px;
+    }
+    .block-gallery .sort-list {
+    margin: 12px 54px 0 0;
+}
+    .block-gallery .sort-list .dropcontainer {
+        margin-bottom: 0;
+    }
+    .list-gallery {
+    width: inherit;
+        margin-left: 24px;
+}
+    .list-gallery li {
+    width: 138px;
+    margin: 0 6px 7px;
+}
+    .list-gallery .row-frame {
+        width: 138px;
+        height: 138px;
+        margin-bottom: 2px;
+    }
+    .list-gallery .frame {
+    width: 132px;
+    height: 132px;
+    top: 3px;
+    left: 3px;
+}
+    .list-gallery .pic-upload {
+    width: 132px;
+    height: 132px;
+}
+    .list-gallery .color-title {
+    width: 138px;
+    height: 49px;
+}
+    .list-gallery .logo-in {
+    width: 28px;
+    height: 32px;
+}
+    .list-gallery a h2 {
+        font-size: 18px;
+    }
+    .block-gallery .row-btn {
+        position: relative;
+        top: 5px;
+    }
+    
+    .hwinner {
+    margin-bottom: 35px!important;
+    top: -15px;
+}
+    .block-gallery .hwinner .sort-list {
+    margin: 38px 54px 0 0;
+}
+    .txt-announcement {
+        text-align: center;
+    }
+    
+    .footer-container {
+    padding: 35px 0;
+}
+    .footer-container p {
+        font-size: 16px;
+    }
+    
+}
+
+@media only screen and (min-width: 1300px) {
+    
+}
+
+@media only screen and (min-width: 1400px) {
+    
+}
+@media only screen and (min-width: 1900px) {
+    
+}

@@ -1,0 +1,100 @@
+form.form2col {
+	width: 710px;
+}
+fieldset {
+	border: none;
+	border-bottom: 1px solid #e1e1e1;
+	margin: 0 0 2em;
+	padding: 0 0 1em;
+}
+legend {
+	font-size: 1.48em;
+	font-weight: 300;
+	color: #75c191;
+	margin-bottom: .9em;
+	/*font-family: 'rsuregular';*/
+}
+.form-group {
+	margin-bottom: 1.3em;
+	width: 345px;
+}
+.form-full {
+	width: 100%;
+}
+.row-group:before,
+.row-group:after {
+    content: " ";
+    display: table;
+}
+.row-group:after {
+    clear: both;
+}
+.row-group {
+    *zoom: 1;
+}
+.row-group .form-group {
+	float: left;
+}
+.row-group .form-group:first-child+div {
+	float: right;
+}
+input {
+	margin: 0;
+}
+input[type="text"], input[type="password"], textarea, select {
+	font-family: Thonburi, tahoma, sans-serif;
+	font-size: 1em;
+	color: #555;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	display: block;
+	width: 100%;
+	height: 40px;
+	padding: 5px 10px 6px;
+	line-height: 1.5em;
+	background-color: #fff;
+	border: 1px solid #ebebeb;
+}
+textarea {
+	height: auto;
+	resize: vertical;
+}
+select.sel-s, select.sel-m {
+	float: left;
+	margin-left: 12px;
+}
+.row-group select:first-child {
+	margin-left: 0;
+}
+select.sel-s {
+	width: 100px;
+}
+select.sel-m {
+	width: 120px;
+}
+label {
+	display: block;
+	font-size: 1.25em;
+	margin-bottom: 6px;
+	/*font-family: 'rsuregular';*/
+	color: #636363;
+}
+.dinline label {
+	display: inline-block;
+	line-height: 1.5em;
+}
+.checkbox label, .radio label {
+	margin-right: 20px;
+	font-family: Lucida Sans, sans-serif;
+	font-size: .98em;
+}
+.checkbox label.head, .radio label.head {
+	/*font-family: 'rsuregular';*/
+	font-size: 1.25em;
+}
+.checkbox input[type=checkbox], .radio input[type=radio] {
+	margin-right: 3px;
+}
+.nolabel {
+	margin-top: 1.98em;
+}
